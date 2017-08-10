@@ -9,7 +9,7 @@ import restorbi.core.BasicModel;
 
 @Entity
 public class Adisyon extends BasicModel{
-
+ //
 	@Column(name="desk_number")
 	private int deskNumber=0;
 	
